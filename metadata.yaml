@@ -3,6 +3,6 @@ documentation: "https://github.com/hypeagency/insider"
 versions:
 
   # Latest version
-  - sha: b6014f6f54383ac58ce4f0a2056f00e0aac61cd0
+  - sha: 0b8939a21d7e977b1788952c41f9a0bb2c51f2ce
     changeNotes: Initial release.
   # Older versions
